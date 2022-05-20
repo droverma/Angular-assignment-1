@@ -1,0 +1,28 @@
+.mat-card:not([class*=mat-elevation-z]) {
+    box-shadow: 0 2px 1px -1px #0003, 0 1px 1px #00000024, 0 1px 3px #000000;
+}
+
+.mat-expansion-panel:not([class*=mat-elevation-z]) {
+    box-shadow: 0 3px 1px -2px #0003, 0 2px 2px #00000024, 0 1px 5px #000000;
+}
+
+.example-card {
+    max-width: 77rem;
+    margin: auto;
+}
+
+.mat-input {
+    width: 100%;
+}
+
+.error-message {
+    color: red;
+    margin: 1.2rem;
+    padding: 2px;
+}
+
+.add-note-section {
+    margin-left: 1rem;
+    margin-top: 1rem;
+    width: 98%;
+}
